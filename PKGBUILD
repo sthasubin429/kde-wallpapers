@@ -2,7 +2,7 @@
 pkgname=kde-wallpapers
 _destname1="/"
 pkgver=22.09
-pkgrel=2
+pkgrel=3
 pkgdesc="KDE Desktop Wallpapers"
 arch=('any')
 url="https://github.com/xerolinux"
