@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=kde-wallpapers
 _destname1="/"
-pkgver=22.09
-pkgrel=3
+pkgver=22.10
+pkgrel=1
 pkgdesc="KDE Desktop Wallpapers"
 arch=('any')
 url="https://github.com/xerolinux"
