@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=kde-wallpapers
 _destname1="/"
-pkgver=22.10
+pkgver=22.12
 pkgrel=1
 pkgdesc="KDE Desktop Wallpapers"
 arch=('any')
